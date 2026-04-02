@@ -1,7 +1,7 @@
 Hi there 👋
 
 # 💫 About Me:
-<br>🔭 I’m currently working on<br>Full-stack web development projects, DSA practice, and improving my GitHub profile with real-world applications.<br>👯 I’m looking to collaborate on<br>Open-source projects, web development (MERN stack), and beginner-friendly system/software projects.<br>🤝 I’m looking for help with<br>Advanced DSA, backend optimization, and real-world project architecture.<br>🌱 I’m currently learning<br>Data Structures & Algorithms, React, Node.js, DBMS, and core Computer Science concepts.<br>💬 Ask me about<br>C/C++, Python basics, Web Development, DBMS, Operating Systems, and B.Tech CSE exam preparation.<br>⚡ Fun fact<br>I enjoy breaking complex problems into simple logic and writing clean, understandable code.<br>
+<br>🔭 I’m currently working on<br>Full-stack web development projects, DSA practice, and improving my GitHub profile with real-world applications.<br>👯 I’m looking to collaborate on<br>Open-source projects, web development (MERN stack), and beginner-friendly system/software projects.<br>🤝 I’m looking for help with<br>Advanced DSA, backend optimization, and real-world project architecture.<br>🌱 I’m currently learning<br>Data Structures & Algorithms, React, Node.js, DBMS, and core Computer Science concepts.<br>💬 Ask me about<br>JAVA, Python basics, Web Development, DBMS, Operating Systems, Software Engineering.<br>⚡ Fun fact<br>I enjoy breaking complex problems into simple logic and writing clean, understandable code.<br>
 
 
 ## 🌐 Socials:
